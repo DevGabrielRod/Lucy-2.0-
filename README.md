@@ -12,7 +12,7 @@
 - `2`: Falicitar a execucao de tarefas simples
 </div>
 
-<h6 align="center><h6>
+
 <h6 align="center">Data de Inicio:10/01/2023<h6>
 <h4 align="center">
 :construction:  Projeto em construção  :construction:
