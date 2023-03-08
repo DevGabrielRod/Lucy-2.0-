@@ -4,7 +4,6 @@ import java.io.IOException
 import java.io.InputStreamReader
 import java.util.logging.Logger
 
-
 class LocalShell {
     @Throws(IOException::class)
     fun executeCommand(command: String) {
