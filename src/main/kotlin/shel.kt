@@ -46,7 +46,9 @@ class LocalShell {
         fun shel() {
             println("*-*-*-*-*-*-*ATENCAO!!!!-*-*-*-*-*\n-*-*-*-*VERSAO DE TESTES!!-*-*-*-*")
             val shell = LocalShell()
-            shell.executeCommand("ls -a ~")
+            println("Insira o comando desejado: ")
+            var enter = reader.next()
+            shell.executeCommand(enter)
         }
     }
 }
